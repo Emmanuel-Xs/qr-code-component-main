@@ -21,7 +21,6 @@ main {
 	place-items: center;
 	place-content: center;
 	height: 100dvh;
-	border: 1px solid #000;
 }
 img {
 	max-width: 100%;
