@@ -30,7 +30,7 @@ a {
 }
 .card {
 	width: min(80%, 300px);
-	padding: 0.85em;
+	padding: 0.8em;
 	padding-bottom: 2.5em;
 	border-radius: 1em;
 	background-color: var(--white);
