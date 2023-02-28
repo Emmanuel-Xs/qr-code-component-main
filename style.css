@@ -14,6 +14,7 @@ body {
 	font-family: "Outfit", sans-serif;
 	font-size: 15px;
 	background-color: var(--light-gray);
+	height: 100dvh;
 }
 main {
 	display: grid;
