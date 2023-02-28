@@ -11,6 +11,7 @@
 	padding: 0;
 }
 body {
+	position: relative;
 	display: grid;
 	place-items: center;
 	place-content: center;
@@ -27,7 +28,7 @@ a {
 }
 .card {
 	width: min(80%, 300px);
-	padding: 0.75em;
+	padding: 0.9em;
 	padding-bottom: 2.5em;
 	border-radius: 1em;
 	background-color: var(--white);
@@ -48,6 +49,13 @@ a {
 	color: var(--grayish-blue);
 	padding: 0 1em;
 	font-weight: 400;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	translate: -50%;
+	width: 100%;
 }
 .attribution {
 	font-size: 13px;
