@@ -11,6 +11,7 @@
 	padding: 0;
 }
 body {
+	border: 1px solid #000;
 	display: grid;
 	place-items: center;
 	place-content: center;
@@ -18,6 +19,11 @@ body {
 	font-family: "Outfit", sans-serif;
 	font-size: 15px;
 	background-color: var(--light-gray);
+}
+main {
+	border: 1px solid #000;
+	max-width: 1200px;
+	padding: 0 1em;
 }
 img {
 	max-width: 100%;
