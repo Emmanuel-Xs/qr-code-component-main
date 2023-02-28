@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/Emmanuel-Xs/qr-code-component-main)
+- Live Site URL: [a netlify app](https://boisterous-youtiao-6fbb76.netlify.app/)
 
 ## My process
 
@@ -45,11 +45,13 @@ I had problem with the border box of the card and image, it doesn't looks let me
 **I am writing this 5months later because I want to improve on skills.**
 
 This is the code for ensuring that the size of the card doesn't grow to big. It uses the min() function to ensure that it always takes the smallest size possible of the two
+
 ```css
 .card {
-	width: min(80%, 300px);
+ width: min(80%, 300px);
 }
 ```
+
 ### Continued development
 
 I want to improve on skills on web development in general so that i can start building things on my own and especially use my skills to solve problems that will earn me money and fulfillment
@@ -58,9 +60,7 @@ I want to improve on skills on web development in general so that i can start bu
 
 - [kevin powell](https://www.youtube.com/kevinpowell) - I followed kevin's tutorial but not completely, I tried doing it on my own
 
-
 ## Author
 
 - Frontend Mentor - [Emmanuel-Xs](https://www.frontendmentor.io/profile/Emmanuel-Xs)
 - Twitter - [@EmmaNwaohiri](https://www.twitter.com/EmmaNwaohiri)
-
